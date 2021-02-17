@@ -1,5 +1,6 @@
 document.getElementById('report').addEventListener('click', formula)
 
+let number = 0
 let a = 0
 let b = 0
 let h = 0
